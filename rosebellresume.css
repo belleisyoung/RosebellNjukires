@@ -1,0 +1,488 @@
+.rosebellnjukiframe {
+    box-sizing: border-box;
+ 
+    }
+
+body {
+    margin: 50px auto 0;
+    width: 595px;
+    align-items: center;
+    border: 2px solid #000000;
+}
+
+
+
+.rosebellnjukiresume {
+   background: #ffffff;
+    width: 595px;
+    height: 842px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.colour-block {
+   width: 215px;
+    height: 842px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.rectangle-1 {
+   background: #bc82ba;
+    width: 215px;
+    height: 842px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.photo{
+   position: absolute;
+    inset: 0;
+   }
+
+.ellipse-8 {
+   background: #d9d9d9;
+    border-radius: 50%;
+    width: 149px;
+    height: 155px;
+    position: absolute;
+    left: 31px;
+   top: 45px;
+   }
+
+.rosebell-1 {
+   width: 160px;
+    height: 155px;
+    position: absolute;
+    left: 26px;
+   top: 45px;
+   border-radius: 510px;
+   }
+
+.namerosebell{
+   color: #ffffff;
+    text-align: left;
+    font: 300 16px/16px 'Poppins', sans-serif;
+    position: absolute;
+    left: 17px;
+   top: 220px;
+   }
+
+.Njuki{
+    color: #ffffff;
+    text-align: left;
+    font: 300 16px/16px 'Poppins', sans-serif;
+    position: absolute;
+    left: 17px;
+   top: 252px;
+}
+
+.Occupation {
+   color: #ffffff;
+    text-align: left;
+    font: 13px 'Poppins', sans-serif;
+    font-weight: lighter;
+    position: absolute;
+    left: 17px;
+  margin-top: 295px;
+   }
+h4{
+    font-weight: 500;
+}
+h1{
+    font-weight: 700;
+}
+h5{
+    font-weight: 400;
+}
+h3{
+    font-weight: 600;
+}
+li{
+    font-weight: 400;
+    margin-left: -10px;
+}
+.EMAIL {
+   color: #ffffff;
+    text-align: left;
+    font: 500 13px 'Poppins', sans-serif;
+    position: absolute;
+    left: 17px;
+   top: 315px;
+   }
+
+.linked-in {
+   color: #ffffff;
+    text-align: left;
+    font: 400 13px 'Poppins', sans-serif;
+    text-decoration: underline;
+    position: absolute;
+    left: 17px;
+   top: 338px;
+   }
+a{
+color: #ffffff;
+}
+.skills{
+   position: absolute;
+    inset: 0;
+   }
+
+.SKILLS{
+   color: #ffffff;
+    text-align: left;
+    font: 500 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: 17px;
+   top: 380px;
+    width: 149px;
+   }
+
+.myskills {
+   color: #ffffff;
+    text-align: left;
+    font: 700 11px 'Poppins', sans-serif;
+    left: 17px;
+   margin-top: 415px;
+    width: 172px;
+   }
+
+.references {
+   position: absolute;
+    inset: 0;
+   }
+
+.Selinesphonenumber{
+   color: #ffffff;
+    text-align: left;
+    font: 500 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 729px;
+    width: 152px;
+    height: 15px;
+   }
+
+.Seline {
+   color: #ffffff;
+    text-align: left;
+    font: 600 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: -1px;
+   top: 682px;
+    width: 152px;
+    height: 40px;
+   }
+   .phonenubmer{
+    list-style: none;
+    margin-top: 9px;
+   }
+
+.LauraPhonenumber {
+   color: #ffffff;
+    text-align: left;
+    font: 500 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: 21px;
+   top: 590px;
+    width: 152px;
+    height: 30.9px;
+    list-style: none;
+   }
+
+.Laura {
+   color: #ffffff;
+    text-align: left;
+    font: 600 10px/12px 'Poppins', sans-serif;
+    position: absolute;
+    left: -1px;
+   top: 605px;
+    width: 152px;
+    height: 48px;
+   }
+
+.REFERENCES {
+   color: #ffffff;
+    text-align: left;
+    font: 700 11px 'Poppins', sans-serif;
+    position: absolute;
+    left: 17px;
+   top: 570px;
+    width: 172px;
+    height: 44.14px;
+   }
+
+.Entireexperience{
+   position: absolute;
+    inset: 0;
+   }
+
+.Payhouseexperience{
+   text-align: left;
+    position: absolute;
+    left: 230px;
+   top: 428px;
+    width: 340px;
+   }
+
+.RoleatPayhouse {
+   
+           color: #931f8e;
+   
+           font: 700 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.Timeatpayhouse {
+   
+           color: #bc82ba;
+   
+           font: 400 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.detailsaboutPayhouseparagraph1{
+   
+           color: #000000;
+   
+           font: 400 10px/10px 'Poppins', sans-serif;
+           line-height: 14px;
+           margin-top: -50px;
+   
+           
+           
+       }
+
+.detailsaboutpayhouselist{
+   
+           color: #000000;
+   
+           font: 600 8px/10px 'Poppins', sans-serif;
+           line-height: 14px;
+           text-align: left;
+        
+       }
+       .lists{  text-align: left;}
+
+
+.HOAexperience{
+   text-align: left;
+    position: absolute;
+    left: 231px;
+   top: 80px;
+    width: 340px;
+   }
+
+.RoleatHOA{
+   
+           color: #931f8e;
+   
+           font: 700 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.HOAinFULL {
+   
+           color: #931f8e;
+   
+           font: 600 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.TimeatHOA{
+   
+           color: #bc82ba;
+   
+           font: 500 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.video-editor-house-of-akumu-august-2022-february-2023-house-of-akumu-is-an-upcoming-social-enterprise-aiming-to-empower-youths-in-the-film-industry-in-this-internship-through-my-editing-skills-i-helped-the-company-tell-a-very-informative-story-about-the-airline-industry-shedding-light-to-renegade-air-and-their-services-span4 {
+   
+           color: #000000;
+   
+           font: 900 8px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.AboutHOA{
+   
+           color: #000000;
+   
+           font: 400 10px/10px 'Poppins', sans-serif;
+           line-height: 14px;
+   
+           
+           
+       }
+
+.OfelosProject{
+   text-align: left;
+    position: absolute;
+    left: 230px;
+   top: 240px;
+    width: 340px;
+   }
+
+.RoleatOFELOS{
+   
+           color: #931f8e;
+   
+           font: 700 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.Ofeloscompanyname{
+   
+           color: #931f8e;
+   
+           font: 600 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.ProjectTime{
+   
+           color: #bc82ba;
+   
+           font: 500 10px/10px 'Poppins', sans-serif;
+   
+           
+           
+       }
+
+.aboutproject{
+   
+           color: #000000;
+   
+           font: 900 10px/10px 'Poppins', sans-serif;
+           
+   
+           
+           
+       }
+
+.aboutproject{
+   
+           color: #000000;
+   
+           font: 400 10px/10px 'Poppins', sans-serif;
+           line-height: 14px;
+   
+           
+           
+       }
+
+.line-1 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 0.3px 0 0 0;
+    width: 329px;
+    height: 0px;
+    position: absolute;
+    left: 230px;
+   top: 65px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+   }
+
+.experienceword {
+   color: #931f8e;
+    text-align: left;
+    font: 700 11px 'Poppins', sans-serif;
+    position: absolute;
+    left: 230px;
+   top: 30px;
+    width: 172px;
+   }
+
+.education {
+    position: absolute;
+    inset: 0;
+    margin-top:730px;
+    margin-left: 220px;
+   }
+
+.educationword {
+   color: #931f8e;
+    text-align: left;
+    font: 700 11px 'Poppins', sans-serif;
+    position: absolute;
+    left: 230px;
+   top: 685px;
+    width: 172px;
+   }
+
+.Certificate {
+    position: absolute;
+    inset: 0;
+
+}
+
+.certificateofphotography{
+    color: #bc82ba;
+
+    font: 700 8px/10px 'Poppins', sans-serif;
+
+
+}
+
+.dateofcompletion1{
+    color: #000000;
+   
+           font: 600 8px/10px 'Poppins', sans-serif;
+
+}
+
+.Diploma{
+    color: #bc82ba;
+
+    font: 700 8px/10px 'Poppins', sans-serif;
+}
+.dateofcompletion2{
+    color: #000000;
+   
+    font: 600 8px/10px 'Poppins', sans-serif;
+
+}
+.Bootcamp{
+    color: #bc82ba;
+
+    font: 700 8px/10px 'Poppins', sans-serif;
+
+}
+.dateofcompletion3{
+    color: #000000;
+   
+    font: 600 8px/10px 'Poppins', sans-serif;
+}
+.line-3 {
+   border-style: solid;
+    border-color: #000000;
+    border-width: 0.3px 0 0 0;
+    width: 329px;
+    height: 0px;
+    position: absolute;
+    left: 10px;
+   top: -10px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+   }
+
